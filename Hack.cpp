@@ -2,7 +2,7 @@
     Zadanie z platformy szkopul.edu.pl
     Nazwa zadania: H4x0r
     Link do zadania: https://szkopul.edu.pl/problemset/problem/-sW59iNCsLGhh8xyFPEmtn7F/site/?key=statement
-    
+    Wynik 100/100
 */
 
 #include <iostream>
